@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:popupTheme="@style/ToolbarStyle"
+    >
+
+
+
+    <item
+        android:id="@+id/toolbar_menu_novo_relatorio"
+        android:title="Novo Relatorio"
+        android:popupBackground="@color/colorPrimary"
+
+            />
+    <item
+        android:id="@+id/toolbar_menu_estoque"
+        android:title="Estoque"
+        />
+
+    <item
+        android:id="@+id/toolbar_menu_atualizar_estoque"
+        android:title="Atualizar Estoque"
+        />
+
+    <item
+        android:id="@+id/toolbar_menu_enviar_relatorio"
+        android:title="Enviar Relatório"
+        />
+
+
+    <item
+        android:id="@+id/toolbar_menu_enviar_fotos"
+        android:title="Enviar Fotos"
+        />
+
+    <item
+        android:id="@+id/toolbar_menu_fechar_aplicativo"
+        android:title="Fechar Aplicativo"
+
+        />
+
+</menu>
